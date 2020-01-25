@@ -1,0 +1,6 @@
+type: material
+name: Wood
+description: Harvested from Tree.
+hardness: 2
+cost: 0
+color: #654321
