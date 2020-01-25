@@ -12,3 +12,5 @@ This mod add tree and stuff about it.
  - Carbon Compressor
  - Walls
  - Wood Engine
+# Note:
+i copied sprite from the game source lol
