@@ -1,0 +1,34 @@
+type: GenericSmelter
+name: Tree Maker
+description: Fuse carbon and grass to make tree
+liquidCapacity: 10
+size: 2
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: pulverizeMedium
+consumes: {
+  power: 
+  items: {
+    items: [
+      carbon/2
+      grass/2
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 1
+  }
+}
+requirements: [
+  copper/50
+  lead/80
+  silicon/60
+  graphite/50
+]
+category: crafting
+research: grass-harvester
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: wood/1
