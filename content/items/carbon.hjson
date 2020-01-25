@@ -1,0 +1,4 @@
+type: resource
+name: Carbon
+description: Fuck it, graphite press time.
+color: #000000
