@@ -1,0 +1,34 @@
+type: GenericSmelter
+name: Grass Harvester
+description: Extract Spore Pod in order to make Grass
+liquidCapacity: 10
+outputLiquid: {
+  liquid: water
+  amount: 12
+}
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 30
+updateEffect: ripple
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      spore-pod/2
+    ]
+  }
+  liquid: {
+  }
+}
+requirements: [
+  lead/50
+  silicon/60
+  copper/50
+]
+category: crafting
+research: graphite-press
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: grass/1
