@@ -1,5 +1,0 @@
-type: floor
-name: Tree
-itemDrop: wood
-variants: 4
-playerUnmineable: false
