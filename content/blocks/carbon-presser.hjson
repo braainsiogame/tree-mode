@@ -8,7 +8,7 @@ hasLiquids: false
 hasItems: true
 craftTime: 30
 updateEffect: pulverizeMedium
-consumes: {
+consumes: {}
   items: {
     items: [
       coal/1
