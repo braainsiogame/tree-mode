@@ -9,7 +9,7 @@ hasLiquids: true
 hasItems: true
 craftTime: 30
 updateEffect: pulverizeMedium
-consumes: { 
+consumes: {} 
   items: {
     items: [
       carbon/2
