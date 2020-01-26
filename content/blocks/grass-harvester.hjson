@@ -19,8 +19,6 @@ consumes: {
       spore-pod/2
     ]
   }
-  liquid: {
-  }
 }
 requirements: [
   lead/50
