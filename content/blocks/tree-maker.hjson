@@ -21,7 +21,6 @@ consumes: {
     liquid: water
     amount: 1
   }
-}
 requirements: [
   copper/50
   lead/80
